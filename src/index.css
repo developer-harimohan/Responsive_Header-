@@ -2,13 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-* {
-    font-family: 'Roboto', sans-serif;
-}
+@import url('https://fonts.cdnfonts.com/css/sansation');
+@import url('https://fonts.googleapis.com/css2?family=Average+Sans&display=swap');
 
 body {
     background-color: gray;
-
+    font-family: 'Sansation', sans-serif;
 }
